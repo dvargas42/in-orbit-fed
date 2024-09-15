@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  In.Orbit is an Web Application building in React
+  In.Orbit is an web application builded in React
 </h3>
 
 <p align="center">The best way to control your goals</p>
@@ -58,15 +58,15 @@ Images of the application in operation.
 
 Technologies that I used to develop this api
 
-- [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [dayjs](https://day.js.org/en/)
-- [Tailwind](https://tailwindcss.com/)
-- [Radix-UI](https://www.radix-ui.com/)
-- [Lucide Icons](https://lucide.dev/guide/packages/lucide-react)
-- [Zod](https://zod.dev/)
-- [Vite](https://vitejs.dev/)
-- [BiomeJS](https://biomejs.dev/pt-br/)
+- [React 18](https://react.dev/)
+- [TypeScript 18](https://www.typescriptlang.org/)
+- [Dayjs 1.11](https://day.js.org/en/)
+- [Tailwind 3.4](https://tailwindcss.com/)
+- [Radix-UI 1.1](https://www.radix-ui.com/)
+- [Lucide Icons 0.441](https://lucide.dev/guide/packages/lucide-react)
+- [Zod 3.23](https://zod.dev/)
+- [Vite 4.3](https://vitejs.dev/)
+- [BiomeJS 1.9](https://biomejs.dev/pt-br/)
 
 ## 💻 Getting started
 
